@@ -1,0 +1,6 @@
+# Enforce LF for all files (optional)
+* text=auto
+
+# Specific overrides
+*.js text eol=lf
+*.json text eol=lf
